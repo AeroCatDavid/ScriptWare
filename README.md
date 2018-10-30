@@ -1,11 +1,11 @@
 # ScriptWare
 Edited by AeroCat
-##These are all the best parts from Script Ware.
+## These are all the best parts from Script Ware.
 
-##Including:
+## Including:
 
 ###### - GetObjects
 ###### - Protoconvertion
 ###### - Whitelist
 
-#Only the best parts!!!
+# Only the best parts!!!

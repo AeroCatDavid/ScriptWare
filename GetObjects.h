@@ -1,4 +1,4 @@
-# GetObjects
+/* ****************************** GetObjects ******************************** */
 
 static int custom_getobjects(int rL) {
 	VMProtectBeginMutation("getobjects");
@@ -57,7 +57,7 @@ r_lua_pushnumber(rL, (double)(DWORD)custom_getobjects);
   
   /* Yep :D */
   
-  # Loadstrings
+/* ****************************** Loadstring ******************************** */
   
   r_lua_pushnumber(rL, (double)(DWORD)rloadstring);
 	r_lua_pushcclosure(rL, (rlua_cclosure)hook, 1);
